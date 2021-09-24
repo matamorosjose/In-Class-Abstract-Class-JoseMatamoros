@@ -1,0 +1,16 @@
+C:\Users\jlmat\Documents\WCTC\.Net_Class\In-Class Abstract Class\obj\Debug\net5.0\In-Class Abstract Class.csprojAssemblyReference.cache
+C:\Users\jlmat\Documents\WCTC\.Net_Class\In-Class Abstract Class\obj\Debug\net5.0\In-Class Abstract Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlmat\Documents\WCTC\.Net_Class\In-Class Abstract Class\obj\Debug\net5.0\In-Class Abstract Class.AssemblyInfoInputs.cache
+C:\Users\jlmat\Documents\WCTC\.Net_Class\In-Class Abstract Class\obj\Debug\net5.0\In-Class Abstract Class.AssemblyInfo.cs
+C:\Users\jlmat\Documents\WCTC\.Net_Class\In-Class Abstract Class\obj\Debug\net5.0\In-Class Abstract Class.csproj.CoreCompileInputs.cache
+C:\Users\jlmat\Documents\WCTC\.Net_Class\In-Class Abstract Class\bin\Debug\net5.0\In-Class Abstract Class.exe
+C:\Users\jlmat\Documents\WCTC\.Net_Class\In-Class Abstract Class\bin\Debug\net5.0\In-Class Abstract Class.deps.json
+C:\Users\jlmat\Documents\WCTC\.Net_Class\In-Class Abstract Class\bin\Debug\net5.0\In-Class Abstract Class.runtimeconfig.json
+C:\Users\jlmat\Documents\WCTC\.Net_Class\In-Class Abstract Class\bin\Debug\net5.0\In-Class Abstract Class.runtimeconfig.dev.json
+C:\Users\jlmat\Documents\WCTC\.Net_Class\In-Class Abstract Class\bin\Debug\net5.0\In-Class Abstract Class.dll
+C:\Users\jlmat\Documents\WCTC\.Net_Class\In-Class Abstract Class\bin\Debug\net5.0\ref\In-Class Abstract Class.dll
+C:\Users\jlmat\Documents\WCTC\.Net_Class\In-Class Abstract Class\bin\Debug\net5.0\In-Class Abstract Class.pdb
+C:\Users\jlmat\Documents\WCTC\.Net_Class\In-Class Abstract Class\obj\Debug\net5.0\In-Class Abstract Class.dll
+C:\Users\jlmat\Documents\WCTC\.Net_Class\In-Class Abstract Class\obj\Debug\net5.0\ref\In-Class Abstract Class.dll
+C:\Users\jlmat\Documents\WCTC\.Net_Class\In-Class Abstract Class\obj\Debug\net5.0\In-Class Abstract Class.pdb
+C:\Users\jlmat\Documents\WCTC\.Net_Class\In-Class Abstract Class\obj\Debug\net5.0\In-Class Abstract Class.genruntimeconfig.cache

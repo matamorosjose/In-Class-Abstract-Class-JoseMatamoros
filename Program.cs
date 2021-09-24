@@ -6,7 +6,18 @@ namespace In_Class_Abstract_Class
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Ford ford = new Ford();
+            ford.RemoteStart();
+            ford.Drive();
+            ford.Stop();
+
+            System.Console.WriteLine("\n");
+
+            Subaru subaru = new Subaru();
+            subaru.RemoteStart();
+            subaru.Drive();
+            subaru.Stop();
+
         }
     }
 }
